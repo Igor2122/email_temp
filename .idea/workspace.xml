@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66b4daf8-7bb5-4e64-9b7c-f5e4fddfe68f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/email_temp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PragueExpats.html" beforeDir="false" afterPath="$PROJECT_DIR$/PragueExpats.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ctaSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/ctaSection.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +55,33 @@
       <updated>1579628193147</updated>
       <workItem from="1579628195990" duration="3518000" />
       <workItem from="1580719229198" duration="880000" />
-      <workItem from="1580794979023" duration="1327000" />
+      <workItem from="1580794979023" duration="1557000" />
     </task>
+    <task id="LOCAL-00001" summary="email templ final version">
+      <created>1580796439138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580796439138</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="email templ final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="email templ final version" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="314" y="23" key="CommitChangelistDialog2" timestamp="1580796438976">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="314" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580796438976" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1580796444468">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580796444468" />
   </component>
 </project>
