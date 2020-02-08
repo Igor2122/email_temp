@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66b4daf8-7bb5-4e64-9b7c-f5e4fddfe68f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PragueExpats.html" beforeDir="false" afterPath="$PROJECT_DIR$/PragueExpats.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,8 @@
       <updated>1579628193147</updated>
       <workItem from="1579628195990" duration="3518000" />
       <workItem from="1580719229198" duration="880000" />
-      <workItem from="1580794979023" duration="1557000" />
+      <workItem from="1580794979023" duration="1746000" />
+      <workItem from="1581003049351" duration="2530000" />
     </task>
     <task id="LOCAL-00001" summary="email templ final version">
       <created>1580796439138</created>
@@ -64,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580796439138</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="final changes to text colors">
+      <created>1580796678635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580796678635</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,16 +81,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="email templ final version" />
-    <option name="LAST_COMMIT_MESSAGE" value="email templ final version" />
+    <MESSAGE value="final changes to text colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="final changes to text colors" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="314" y="23" key="CommitChangelistDialog2" timestamp="1580796438976">
+    <state x="314" y="23" key="CommitChangelistDialog2" timestamp="1580796678423">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="314" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580796438976" />
-    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1580796444468">
+    <state x="314" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1580796678423" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1581015269455">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1580796444468" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1581015269455" />
   </component>
 </project>
